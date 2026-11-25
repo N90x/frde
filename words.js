@@ -264,7 +264,6 @@ let words = [
     { english: "hair", german: "das Haar", french: "les cheveux" },
     { english: "eye", german: "das Auge", french: "l'œil" },
     { english: "mouth", german: "der Mund", french: "la bouche" },
-    { english: "lipnose", german: "die Lippe/die Nase", french: "la lèvre/le nez" },
     { english: "tooth", german: "der Zahn", french: "la dent" },
     { english: "ear", german: "das Ohr", french: "l'oreille" },
     { english: "tear(drop)", german: "die Träne", french: "la larme" },
