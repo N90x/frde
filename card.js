@@ -144,7 +144,7 @@ function drawPiles() {
 }
 
 function isPileHovered(pile) {
-    return (mouseX > pile.x - cardWidth / 2 && mouseX < pile.x + cardWidth / 2 && mouseY > pile.y + cardHeight/2)
+    return (mouseX > pile.x - cardWidth / 2 && mouseX < pile.x + cardWidth / 2 && mouseY > pile.y)
 }
 
 function peekPiles() {
