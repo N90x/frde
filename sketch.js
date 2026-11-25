@@ -2,7 +2,7 @@ let cnv;
 let centre;
 let margin = 20
 
-let language = 'DE'
+let language = 'FR'
 
 function french() {
   language = "FR"
